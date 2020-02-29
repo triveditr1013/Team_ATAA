@@ -18,6 +18,7 @@ These tests will primarily cover three performance models:
   1. Memory based tests
   2. Perception based tests
   3. Communication based tests
+
 Each student will be given a set of questions from each model, which would be based on the application or utilization of the curriculum taught in school. The performance will be measured based on the right answer or wrong answer. 
 Apart from that we will be taking a general personality / habit test which would then be correlated with the answers from performance models. Based on that a wholesome report will be generated and provided as a result. These tests have no winners or failures. They only help in recommending the learning stage of the child and what can be done to improve it.  
 
